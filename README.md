@@ -17,7 +17,7 @@ lot of technical and functional modifications.
 Like the original [mirador-annotations](https://github.com/ProjectMirador/mirador-annotations/) plugin, this 
 `mirador-annotation-editor` is distributed under the **Apache License Version 2.0**.
 
-Beware that the extension plugin [mirador-annotation-editor-video](https://github.com/SCENE-CE/mirador-annotation-editor-video) 
+Beware that the extension plugin [mirador-annotation-editor-video](https://github.com/ARVEST-APP/mirador-annotation-editor-video) 
 that supports video annotation is released under the **GPL v3** license.
 
 Please acknowledge that any modification you make must be distributed under a compatible licence and cannot be closed 
@@ -102,14 +102,14 @@ import LocalStorageAdapter from 'mirador-annotations/es/annotationAdapter/LocalS
 ```
 
 You can find an example of integration in our Mirador-integration repository : 
-https://github.com/SCENE-CE/mirador-integration
+https://github.com/ARVEST-APP/mirador-integration
 
 ## Install (local)
 
 This method requires `nvm`, `npm`.
 
 ```
-git clone git@github.com:SCENE-CE/mirador-annotation-editor.git
+git clone git@github.com:ARVEST-APP/mirador-annotation-editor.git
 cd mirador-annotation-editor
 nvm use
 npm install
@@ -123,9 +123,9 @@ npm start
 
 ## Use MAE with video annotation support
 - If you need video annotation, you can use 
-[our fork of Mirador: mirador-video](https://github.com/SCENE-CE/mirador-video)
+[our fork of Mirador: mirador-video](https://github.com/ARVEST-APP/mirador-video)
 - In addition, we have developed a wrapper of MAE to support video annotation. This wrapper is called **MAEV** and is
-available in the [mirador-annotation-editor-video](https://github.com/SCENE-CE/mirador-annotation-editor-video)
+available in the [mirador-annotation-editor-video](https://github.com/ARVEST-APP/mirador-annotation-editor-video)
 repository.
 
 

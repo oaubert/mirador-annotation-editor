@@ -43,7 +43,7 @@ export const fr = {
   line: 'Ligne',
   line_weight: 'Épaisseur de ligne',
   loading_failed: 'Échec du chargement',
-  maev_github_link: 'https://github.com/SCENE-CE/mirador-annotation-editor-video',
+  maev_github_link: 'https://github.com/ARVEST-APP/mirador-annotation-editor-video',
   manifest_link: 'Lien vers un manifest',
   manifest_link_with_note: 'Manifest avec description',
   manifest_url: 'URL du manifeste',
